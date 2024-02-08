@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App component > renders correct heading 1`] = `
+<div>
+  <h1>
+    Magnificent Monkeys
+  </h1>
+  <div
+    class="card"
+  >
+    <button
+      type="button"
+    >
+      Click me to change heading
+    </button>
+  </div>
+</div>
+`;
